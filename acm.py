@@ -102,9 +102,9 @@ while True:  # Run until solved
         optimizer.apply_gradients(zip(grads, model.trainable_variables))
 
         # Clear the loss and reward history
-        #action_probs_history.clear()
-        #critic_value_history.clear()
-        #rewards_history.clear()
+        action_probs_history.clear()
+        critic_value_history.clear()
+        rewards_history.clear()
 
     # Log details
     episode_count += 1
