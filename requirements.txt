@@ -3,3 +3,4 @@ ipykernel
 pandas
 torch
 matplotlib
+sklearn
