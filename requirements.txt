@@ -1,4 +1,6 @@
 tensorflow
+torch
+torchvision
 ipykernel
 pandas
 torch
@@ -6,3 +8,4 @@ matplotlib
 sklearn
 gym
 pygame
+matplotlib
