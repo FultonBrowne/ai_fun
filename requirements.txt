@@ -4,3 +4,5 @@ pandas
 torch
 matplotlib
 sklearn
+gym
+pygame
