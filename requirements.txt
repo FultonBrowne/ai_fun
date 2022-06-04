@@ -1,6 +1,8 @@
 tensorflow
 torch
 torchvision
+jupyter
+jupyter_contrib_nbextensions
 ipykernel
 pandas
 torch
@@ -10,3 +12,4 @@ gym
 pygame
 matplotlib
 wikipedia-api
+pandas
