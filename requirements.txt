@@ -13,3 +13,4 @@ pygame
 matplotlib
 wikipedia-api
 pandas
+seaborn
